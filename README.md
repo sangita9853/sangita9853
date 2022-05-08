@@ -1,7 +1,7 @@
 ### Hello, I'm Sangita Mahala!  👋
 
 - 🔭 I’m currently working on as a Data Science Intern.
-- 🌱 I’m currently learning TypeScript and Matlab.
+- 🌱 I’m currently learning GCP.
 - 👯 I’m looking to collaborate on Youtube as a solution provider of GCP.
 - 🤔 I’m looking for help with GCP and Azure certifications Courses.
 - 💬 Ask me about anything about tech related stuff.
