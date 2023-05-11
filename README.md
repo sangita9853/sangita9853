@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangita9853&label=Profile%20views&color=0e75b6&style=flat" alt="sangita9853" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sangitam28" target="blank"><img src="https://img.shields.io/twitter/follow/sangitam28?logo=twitter&style=for-the-badge" alt="sangitam28" /></a> </p>
-
 - 🔭 I’m currently working on **Google Cloud Platform and Software Development Projects**
 
 - 🌱 I’m currently learning **Cloud technologies and Software development practices.Mastering container orchestration platforms like Kubernetes and exploring advanced concepts such as deploying and managing microservices architectures. Improving my skills in infrastructure as code (IaC) tools such as Terraform and CloudFormation to efficiently provision and manage cloud resources. Exploring tools like Jenkins, GitLab CI, and GitHub Actions for seamless software delivery.**
@@ -26,10 +24,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sangita9853&theme=onedark" alt="sangita9853" />
   </a> 
 </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
