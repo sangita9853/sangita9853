@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="250" src="C:\Users\HP\Downloads\Blue Yellow Futuristic Virtual Technology Blog Banner (2).gif">
+<img align="right" alt="coding" width="250" src="https://www.canva.com/design/DAFilg0ckTg/7zTFnkYpPXlgKoFx54VgZg/view?utm_content=DAFilg0ckTg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
 
 
 <h1 align="center">Hi 👋, I'm Sangita Mahala</h1>
