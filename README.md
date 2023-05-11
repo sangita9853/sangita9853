@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sangita Mahala</h1>
 <h3 align="center">Building Scalable Cloud Solutions and cutting-edge software development practices.</h3>
 
+<h3>🌎 Bio</h3>
+
+```javascript
+class Me {
+  pronouns = "She" || "Her";
+  skills = ["GoLang", "Git", "GCP", "Linux", "REST APIs"];
+  constructor(currentlyLearning) {
+    this.skills.push(currentlyLearning);
+  }
+  get education() {
+    return "Graduated a B.Tech in Computer Science";
+  }
+}
+let sangita = new Me("Algorithms");
+```
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
