@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sangita Mahala</h1>
 <h3 align="center">Building Scalable Cloud Solutions and cutting-edge software development practices.</h3>
 
-<h4>🌎 Bio</h4>
+<h2>🌎 Bio</h2>
 
 ```javascript
 class Me {
