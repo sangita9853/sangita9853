@@ -35,6 +35,7 @@ let sangita = new Me("Algorithms");
 
 
 <h2 align="left">🏆 GitHub Trophies :</h2>
+<br>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sangita9853&theme=onedark" alt="sangita9853" />
