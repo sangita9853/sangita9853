@@ -11,7 +11,7 @@ class Me {
     this.skills.push(currentlyLearning);
   }
   get education() {
-    return "Graduated a B.Tech in Computer Science";
+    return "Completed Gradtuation in B.Tech CSE";
   }
 }
 let sangita = new Me("Algorithms");
