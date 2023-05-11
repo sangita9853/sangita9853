@@ -1,3 +1,6 @@
+<img align="right" alt="coding" width="250" src="C:\Users\HP\Downloads\Blue Yellow Futuristic Virtual Technology Blog Banner (2).gif">
+
+
 <h1 align="center">Hi 👋, I'm Sangita Mahala</h1>
 <h3 align="center">Building Scalable Cloud Solutions and cutting-edge software development practices.</h3>
 
