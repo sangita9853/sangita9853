@@ -1,4 +1,5 @@
-<img align="right" alt="coding" width="250" src="https://www.canva.com/design/DAFilg0ckTg/7zTFnkYpPXlgKoFx54VgZg/view?utm_content=DAFilg0ckTg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
+
+<img align="right" alt="coding" width="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkadambinipanda&psig=AOvVaw3FKSkldO9QhDJX9mTbEWRW&ust=1683907464288000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCgoKPS7f4CFQAAAAAdAAAAABAJ">
 
 
 <h1 align="center">Hi 👋, I'm Sangita Mahala</h1>
