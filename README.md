@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sangita Mahala</h1>
 <h3 align="center">Building Scalable Cloud Solutions and cutting-edge software development practices.</h3>
 
@@ -30,15 +29,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sangita9853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sangita9853" height="30" width="40" /></a>
 <a href="https://twitter.com/sangitam28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangitam28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sangita-mahala-08b58b1b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sangita-mahala-08b58b1b0/" height="30" width="40" /></a>
-<a href="https://hashnode.com/sangita75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sangita75" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sangita-mahala-08b58b1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangita-mahala-08b58b1b0" height="30" width="40" /></a>
+<a href="https://kaggle.com/sangitamahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sangitamahala" height="30" width="40" /></a>
 <a href="https://medium.com/@sangitamahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sangitamahala" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@sangitamahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sangitamahala" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sangita987" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sangita987" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sangitamahala981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sangitamahala981" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sangita_mahala98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sangita_mahala98" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sangitamahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sangitamahala" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VfDDan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VfDDan77" height="30" width="40" /></a>
 </p>
 
