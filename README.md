@@ -3,20 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangita9853&label=Profile%20views&color=0e75b6&style=flat" alt="sangita9853" /> </p>
 
-- 🔭 I’m currently working on **Google Cloud Platform and Software Development Projects**
-
-- 🌱 I’m currently learning **Cloud technologies and Software development practices.Mastering container orchestration platforms like Kubernetes and exploring advanced concepts such as deploying and managing microservices architectures. Improving my skills in infrastructure as code (IaC) tools such as Terraform and CloudFormation to efficiently provision and manage cloud resources. Exploring tools like Jenkins, GitLab CI, and GitHub Actions for seamless software delivery.**
-
-- 👯 I’m looking to collaborate on **GCP, Data Science, Software Development and Open Source projects. I'm always open to learning new tools and techniques to enhance my skill set. Let's collaborate and grow together in the exciting world of development!**
-
+📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br>
+- 
+- 💻 My LeetCode Profile : https://leetcode.com/sangita_Mahala98/
+- 😎 Check my Digital archivements Badges : https://www.credly.com/users/sangita-mahala
+- 🌟 Visit My Blog Page : https://medium.com/@sangitamahala
+- 🎉 My Proffestional certificates : http://surl.li/gyjbr
+- 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/sangita-mahala-08b58b1b0/
 - 🤝 I’m looking for help with **GCP & Azure Certifications**
-
-- 📝 I regularly write articles on [https://medium.com/@sangitamahala](https://medium.com/@sangitamahala)
-
 - 💬 Ask me about **GCP, Azure, DSA and Web development**
-
-- 📫 How to reach me **https://www.linkedin.com/in/sangita-mahala-08b58b1b0/**
-
 - ⚡ Fun fact **we can explore new technologies and experiment with innovative solutions together! We can brainstorm creative ideas, tackle coding challenges, and find exciting ways to optimize and scale applications in the cloud. We can also share interesting resources, discover hidden gems in the world of software development, and engage in friendly discussions about the latest trends and advancements in the industry.**
 
 
