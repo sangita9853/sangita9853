@@ -6,7 +6,7 @@
 <br>
 - 
 - 💻 My LeetCode Profile : https://leetcode.com/sangita_Mahala98/
-- 😎 Check my Digital archivements Badges : https://www.credly.com/users/sangita-mahala
+- 😎 Check my Digital Archivements Badges : https://www.credly.com/users/sangita-mahala
 - 🌟 Visit My Blog Page : https://medium.com/@sangitamahala
 - 🎉 My Proffestional certificates : http://surl.li/gyjbr
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/sangita-mahala-08b58b1b0/
