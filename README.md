@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangita9853&label=Profile%20views&color=0e75b6&style=flat" alt="sangita9853" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sangita9853&theme=onedark" alt="sangita9853" />
-  </a> 
-</p>
-
 <p align="left"> <a href="https://twitter.com/sangitam28" target="blank"><img src="https://img.shields.io/twitter/follow/sangitam28?logo=twitter&style=for-the-badge" alt="sangitam28" /></a> </p>
 
 - 🔭 I’m currently working on **Google Cloud Platform and Software Development Projects**
@@ -26,6 +20,12 @@
 - 📫 How to reach me **https://www.linkedin.com/in/sangita-mahala-08b58b1b0/**
 
 - ⚡ Fun fact **we can explore new technologies and experiment with innovative solutions together! We can brainstorm creative ideas, tackle coding challenges, and find exciting ways to optimize and scale applications in the cloud. We can also share interesting resources, discover hidden gems in the world of software development, and engage in friendly discussions about the latest trends and advancements in the industry.**
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sangita9853&theme=onedark" alt="sangita9853" />
+  </a> 
+</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
