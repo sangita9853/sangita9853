@@ -10,6 +10,8 @@
 - 🌟 Visit My Blog Page : https://medium.com/@sangitamahala
 - 🎉 My Proffestional certificates : http://surl.li/gyjbr
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/sangita-mahala-08b58b1b0/
+- 🔴 Youtube Community Channel : https://www.youtube.com/c/CSInfostics
+- 🫶 Telegram Page : https://t.me/csinfostics
 
 
 <h3 align="left">Languages and Tools:</h3>
