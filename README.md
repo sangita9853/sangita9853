@@ -56,5 +56,15 @@ let sangita = new Me("Algorithms");
   </a> 
 </p>
 
+<h2 align="left">📈 Activity Graph :</h2>
+<a href="https://github.com/sangita9853/github-readme-activity-graph">
+<p align="center">
+<a href="https://github.com/sangita9853/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sangita9853&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/sangita9853/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sangita9853&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 
