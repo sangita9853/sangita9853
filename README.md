@@ -20,7 +20,7 @@ let sangita = new Me("Algorithms");
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- 
+
 - 💻 My LeetCode Profile : https://leetcode.com/sangita_Mahala98/
 - 😎 Check my Digital Archivements Badges : https://www.credly.com/users/sangita-mahala
 - 🌟 Visit My Blog Page : https://medium.com/@sangitamahala
@@ -28,6 +28,8 @@ let sangita = new Me("Algorithms");
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/sangita-mahala-08b58b1b0/
 - 🔴 Youtube Community Channel : https://www.youtube.com/c/CSInfostics
 - 🫶 Telegram Page : https://t.me/csinfostics
+- 💬 Ask me about anything about tech related stuff.
+- ⚡ Fun fact: In cases of extreme starvation, the brain will begin to eat itself.
 
 
 
