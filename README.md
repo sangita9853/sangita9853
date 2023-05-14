@@ -1,5 +1,5 @@
 ![logo](https://github.com/sangita9853/sangita9853/blob/main/Github%20Banner.png)
-<h1 align="center"> <span class="wave">👋</span>Hi, I'm Sangita Mahala</h1>
+<h1 align="center"> <span class="wave"> </span>Unleashing Creativity and Innovation: Dive into My GitHub Universe</h1>
 <h3 align="center">Building Scalable Cloud Solutions and cutting-edge software development practices.</h3>
 
 <h2>🌎 Bio</h2>
